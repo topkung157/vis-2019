@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Work4\Work4\bin\Debug\Work4.exe.config
+C:\Users\User\source\repos\Work4\Work4\bin\Debug\Work4.exe
+C:\Users\User\source\repos\Work4\Work4\bin\Debug\Work4.pdb
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.Properties.Resources.resources
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.exe
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.pdb
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.Main.resources
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.Data.resources
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.Data2.resources
+C:\Users\User\source\repos\Work4\Work4\obj\Debug\Work4.Login.resources
